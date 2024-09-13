@@ -1,0 +1,17 @@
+[project]
+name = "prettycode_Ds2"
+version = "0.3"
+authors = [
+  { name="Nour_alyahyaoui", email="noryy6550@gmail.com" },
+]
+description = "A small example package"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/Albert-pene/prettycode"
+Issues = "https://github.com/Albert-pene/LICENECE"
